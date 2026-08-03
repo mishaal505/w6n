@@ -1,9 +1,0 @@
-Package: com.mishaal.sileowelcome
-Name: W6N Tweak
-Depends: mobilesubstrate
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Welcome Back W6N
-Maintainer: mishaal505
-Author: mishaal505
-Section: Tweaks
