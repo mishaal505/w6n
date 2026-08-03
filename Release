@@ -1,8 +1,8 @@
-Origin: W6N Repo
-Label: W6N Repo
+Origin: W6N
+Label: W6N
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
-Description: W6N Custom Repository
+Description: W6N Repository
