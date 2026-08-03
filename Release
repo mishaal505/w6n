@@ -3,6 +3,5 @@ Label: W6N
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64
 Components: main
-Description: W6N Repository
